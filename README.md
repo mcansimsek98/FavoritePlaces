@@ -1,6 +1,9 @@
 # FavoritePlaces
 
-In this application you can list photos of favorite places. You can capture previously taken or from the camera by tapping the camera icon. If your camera is unavailable, it directs you to the photo library and makes a photo selection. Then you can rename the place. If you want, you can click on it and see the photo in more detail.
+  In this application you can list photos of favorite places. You can capture previously taken or from the camera by tapping the camera icon. If your camera is unavailable, it directs you to the photo library and makes a photo selection. Then you can rename the place. If you want, you can click on it and see the photo in more detail.
+
+
+  Userdefaults are used in the application and even if you exit the application and enter, the favorite places you have listed are stored in the application unless you delete them.
 
 <table>
   <tr>
